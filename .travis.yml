@@ -6,4 +6,4 @@ branches:
 script: 
   - bundle exec jekyll algolia
 rvm:
- - 2.2
+ - 2.3
